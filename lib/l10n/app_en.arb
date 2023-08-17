@@ -1,0 +1,126 @@
+{
+    "find_your_happy_space": "Find YOUR Happy Space",
+    "@find_your_happy_space": {
+      "description": "Find YOUR Happy Space"
+    },
+  
+    "contact_us": "Contact Us",
+    "@contact_us": {
+      "description": "Contact Us"
+    },
+    
+    "about_us_title": "About Us",
+    "@about_us_title": {
+      "description": "About Us"
+    },
+    
+    "about_us_desc": "A Happy Space is a PropTech Metaverse company, building the next revolution in real estate sales & rentals systems, and property experiences",
+    "@about_us_desc": {
+      "description": "A Happy Space is a PropTech Metaverse company, building the next revolution in real estate sales & rentals systems, and property experiences"
+    },
+
+    "hint_message": "What is your message to us",
+    "@hint_message": {
+      "description": "what is your message to us"
+    },
+    
+    "company_about": "A Hummingbird Real Estate Company",
+    "@company_about": {
+      "description": "A Hummingbird Real Estate Company"
+    },
+    
+    "office_address_title": "Office Address",
+    "@office_address_title": {
+      "description": "Office Address"
+    },
+
+    "first_name": "First Name",
+    "@first_name": {
+      "description": "First Name"
+    },
+    
+    "name": "Name", 
+    "@name": {
+      "description": "Name"
+    },
+    
+    "surname": "Surname",
+    "@surname": {
+      "description": "Surname"
+    },
+    
+    "email": "Email",
+    "@email": {
+      "description": "Email"
+    },
+    
+    "country_code": "Country Code",
+    "@country_code": {
+      "description": "Country Code"
+    },
+    
+    "cell_phone": "Cell Phone",
+    "@cell_phone": {
+      "description": "Cell Phone"
+    },
+
+    "message": "Message", 
+    "@message": {
+      "description": "Message"
+    },   
+
+    "submit" : "Submit",
+    "@submit": {
+      "description": "Submit"
+    },
+
+    "enter_name": "Please Enter your Name",
+    "@enter_name": {
+      "description": "Please Enter your Name"
+    },
+
+    "send_us_a_message": "Send us a message :)",
+    "@send_us_a_message": {
+      "description" : "send us a message"
+    },
+
+    "send": "Send",
+    "@send": {
+      "description" : "send us a message"
+    },
+
+    "apply": "apply",
+    "@apply": {
+       "description" : "apply"   
+    },
+
+    "cancel": "cancel",
+    "@cancel": {
+      "description": "cancel"
+    },
+
+    "select_a_language": "Please select language",
+    "@select_a_language" : {
+      "description": "Please select language"  
+    },
+
+    "change_language": "Change Language",
+    "@change_language" : {
+      "description": "Change Language"
+    },
+
+    "valid_email": "Please Enter a valid Email",
+    "@valid_email": {
+      "description": "valid_email"
+    },
+
+    "valid_message": "Please enter some text",
+    "@valid_message": {
+      "description" : "valid_message"
+    },
+
+    "thanku_message": "Thanku for contacting us",
+    "@thanku_message": {
+      "description" : "thanku_message"
+    }
+}

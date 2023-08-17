@@ -1,0 +1,33 @@
+# image: cirrusci/flutter:2.10.3
+
+# # List of stages for jobs, and their order of execution
+# stages:
+#   - test
+#   - deploy
+
+# before_script:
+#   - curl -sL https://firebase.tools | bash
+#   - flutter pub global activate junitreport
+#   - export PATH="$PATH":"$HOME/.pub-cache/bin"
+
+# unit-test-job:
+#   stage: test
+#   script:
+#     - flutter test --machine | tojunit -o report.xml
+#   artifacts:
+#     when: always
+#     reports:
+#       junit:
+#         - report.xml
+
+    
+# prod-hosting:
+#   stage: deploy
+#   script:
+#     - flutter build web
+#     - firebase deploy --only hosting --token 1//0gXue5YTk8unfCgYIARAAGBASNwF-L9Ir8O9m4dM_j2LZNipgeir5zzKUCG_908_982ynHCneUUshP93GbPmr2mNtND9OYPn2RrI
+#   only:
+#     - main
+#   environment:
+#     name: production
+#     url: https://ahappy.space
