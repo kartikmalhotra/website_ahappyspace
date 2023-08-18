@@ -2,7 +2,9 @@
 # website_ahappyspace
 
 <img width="1440" alt="Screenshot 2023-08-17 at 5 17 27 PM" src="https://github.com/kartikmalhotra/website_ahappyspace/assets/37996511/50a61053-54c3-4427-826d-45d8e0010bcb">
+
 <img width="1440" alt="Screenshot 2023-08-17 at 5 17 43 PM" src="https://github.com/kartikmalhotra/website_ahappyspace/assets/37996511/17677973-13f2-4a50-a19c-5381deb4d8a6">
+
 <img width="1440" alt="Screenshot 2023-08-17 at 5 17 49 PM" src="https://github.com/kartikmalhotra/website_ahappyspace/assets/37996511/c4bf703b-de5c-4289-94fe-601f72cfc438">
 
 ## Getting started
