@@ -1,6 +1,10 @@
+
 # website_ahappyspace
 
-The company website of a happy space
+<img width="1440" alt="Screenshot 2023-08-17 at 5 17 27 PM" src="https://github.com/kartikmalhotra/website_ahappyspace/assets/37996511/50a61053-54c3-4427-826d-45d8e0010bcb">
+The company website of a![Uploading Screenshot 2023-08-17 at 5.17.43 PM.png…]()
+![Uploading Screenshot 2023-08-17 at 5.17.49 PM.png…]()
+ happy space
 
 ## Getting started
 
